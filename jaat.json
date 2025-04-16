@@ -1,0 +1,16 @@
+{
+  "sourceName": "DESI CINEMAS",
+  "iconUrl": "https://lh3.googleusercontent.com/5pDNZd40d99lBTOBMdmbd_hmevaZ9tB1N6-vivSHBRaH3pH6m_9e2_PMcakh4QswmaB5xFp7qCtpimfX9rW1DKnjfegtttT2lEM=rw",
+  "author": {
+    "name": "Prabh",
+    "icon": "https://lh3.googleusercontent.com/5pDNZd40d99lBTOBMdmbd_hmevaZ9tB1N6-vivSHBRaH3pH6m_9e2_PMcakh4QswmaB5xFp7qCtpimfX9rW1DKnjfegtttT2lEM=rw",
+    "url": "https://lh3.googleusercontent.com/5pDNZd40d99lBTOBMdmbd_hmevaZ9tB1N6-vivSHBRaH3pH6m_9e2_PMcakh4QswmaB5xFp7qCtpimfX9rW1DKnjfegtttT2lEM=rw"
+  },
+  "version": "",
+  "streamType": "HLS",
+  "quality": "1080p",
+  "searchBaseUrl": "https://desicinemas.pk/?s=%s",
+  "baseUrl": "https://desicinemas.pk/",
+  "scriptUrl": "https://raw.githubusercontent.com/50n50/sources/refs/heads/main/onlinemovieshindi/onlinemovieshindi.js",
+  "asyncJS": true
+}
